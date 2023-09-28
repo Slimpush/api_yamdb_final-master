@@ -41,7 +41,7 @@
 
 Клонируйте репрозторий и перейдите в него в командной строке:
 
-`git clone git@github.com:lo-orka/api_yamdb.git`
+`git clone git@github.com:Slimpush/api_yamdb_final-master.git`
 
 `cd api_yamdb`
 
@@ -127,3 +127,4 @@
 ]
 }
 ```
+## Над проектом работали Кирилл "Slimp" Руденко, Валерия "lo-orka" Шакарян, Михаил "Mikhail2690" Федоренко.
